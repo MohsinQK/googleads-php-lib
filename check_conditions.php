@@ -7,3 +7,5 @@ if (PHP_INT_SIZE === 4) {
       . " In addition, when writing your own code, do not apply intval() on any"
       . " attributes that are explicitly an integer.\n\033[0m";
 }
+
+echo "test";
